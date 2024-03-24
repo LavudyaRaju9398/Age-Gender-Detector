@@ -7,3 +7,6 @@ simple age and gender detector using mechine learning
 4.Click on detect button
 5.View results
 
+## To run this model yourself :
+1.Clone this repository 
+2.open the 
